@@ -1,7 +1,7 @@
 # [Nigeria-Olympic-Perfomance-1964-2014](https://popecollins.github.io/Nigeria-Olympic-Perfomance-1964-2014/)
 
 ### The performance of Nigerian during the olympic
-1. This data (name: athlete_events )was downloaded on kaggle 
+1. This data (name: athlete_events ) was downloaded from kaggle 
 2. An exploratory data analysis was carried out in other to know the performance of Nigeria during previous olympic
 3. The data of those who ever won a medal was selected
 4. Nigerian olympics participant data was selected 
